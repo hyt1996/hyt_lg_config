@@ -1,4 +1,6 @@
 mysql:
- user: hyt
-person:
- name: hxt
+  name: hyt
+user:
+  sex: male
+  
+  
